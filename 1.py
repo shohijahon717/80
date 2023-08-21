@@ -1,1 +1,1 @@
-print('Salom uz')
+print('Salom')
